@@ -852,7 +852,7 @@ img::-moz-selection {
   border: 1px solid rgba(255, 255, 255, 0.8);
   border-radius: 999em;
   padding: 0 10px;
-  color: #0000cd;
+  color: #ffffff;
   line-height: 24px;
   font-size: 12px;
   text-decoration: none;
@@ -863,7 +863,7 @@ img::-moz-selection {
 .tags .tag:hover,
 .tags a:active,
 .tags .tag:active {
-  color: #0000cd;
+  color: white;
   border-color: white;
   background-color: rgba(255, 255, 255, 0.4);
   text-decoration: none;
