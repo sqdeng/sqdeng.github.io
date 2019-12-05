@@ -11,9 +11,9 @@
 - Pyhon 安装
 - Pycharm 安装
 
-		i = 0
+	i = 0
 
-		# 输出阶梯型*
-		while i <= 10:
-   			print("*" * i)
-			i += 1
+	# 输出阶梯型*
+	while i <= 10:
+   		print("*" * i)
+		i += 1
