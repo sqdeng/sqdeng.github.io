@@ -8,7 +8,7 @@
 
 ## Python
 
-- Pyhon 安装
+- Python 安装
 - Pycharm 安装
 
 		i = 0
