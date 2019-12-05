@@ -11,8 +11,8 @@
 - Pyhon 安装
 - Pycharm 安装
 
-	i = 0
+		i = 0
 
-	while i <= 10:
-   		print("*" * i)
-		i += 1
+		while i <= 10:
+   			print("*" * i)
+			i += 1
